@@ -2,6 +2,11 @@
   display: flex;
 }
 
+nav > ul {
+  list-decoration: none;
+  gap: 2rem;
+}
+
 .vail-pic {
   position: absolute;
   
