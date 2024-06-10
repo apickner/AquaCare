@@ -1,3 +1,7 @@
+nav {
+  display: flex;
+}
+
 .vail-pic {
   position: absolute;
   
