@@ -1,6 +1,13 @@
 .vail-pic {
+  position: absolute;
+  
   height: 100%;
-  width: 100%;
+  width: 66%;
+  
   background: url('VailHouse.jpeg');
   background-size: cover;
+  background-position: center;
+  
+  top: 0;
+  right: 0;
 }
