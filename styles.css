@@ -1,5 +1,7 @@
 body {
   margin: 0;
+
+  min-height: 100vh;
 }
 
 .nav-bar, nav > ul {
@@ -20,6 +22,8 @@ nav > ul > li > a {
 
 .content { 
   height: 100%;
+  width: 100%;
+  background-color: purple;
 }
 
 .vail-pic {
@@ -42,4 +46,7 @@ nav > ul > li > a {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  position: absolute;
+  bottom: 0;
 }
