@@ -6,6 +6,8 @@
 nav > ul {
   style: none;
   gap: 2rem;
+
+  color: white;
 }
 
 .vail-pic {
@@ -20,4 +22,6 @@ nav > ul {
   
   top: 0;
   right: 0;
+
+  z-index: -1;
 }
