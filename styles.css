@@ -6,8 +6,11 @@
 nav > ul {
   style: none;
   gap: 2rem;
+}
 
+nav > ul > li > a {
   color: white;
+  text-decoration: none;
 }
 
 .vail-pic {
