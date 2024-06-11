@@ -1,10 +1,11 @@
 .nav-bar, nav > ul {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 nav > ul {
-  style: none;
+  list-style: none;
   gap: 2rem;
 }
 
@@ -27,4 +28,10 @@ nav > ul > li > a {
   right: 0;
 
   z-index: -1;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
