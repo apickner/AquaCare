@@ -14,6 +14,10 @@ nav > ul > li > a {
   text-decoration: none;
 }
 
+.content { 
+  height: 100%;
+}
+
 .vail-pic {
   position: absolute;
   
