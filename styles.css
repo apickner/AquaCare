@@ -22,7 +22,7 @@ nav > ul > li > a {
 
 .content { 
   height: 100%;
-  width: 100%;
+/*   width: 100%; */
   background-color: purple;
 }
 
@@ -43,6 +43,8 @@ nav > ul > li > a {
 }
 
 .footer {
+  width: 100%;
+  
   display: flex;
   align-items: center;
   justify-content: space-between;
